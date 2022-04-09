@@ -1,4 +1,4 @@
-fetch("./../json/preguntas.json")
+fetch("https://carlosgaray.github.io/secuencia_botones/json/preguntas.json")
 .then(response => response.json())
 .then(data => {
 

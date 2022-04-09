@@ -1,0 +1,5 @@
+01 git init
+02 git add .
+03 git commit -m "First Proyect"
+04 git remote add origin https://github.com/CarlosGaray/secuencia_botones.git
+05 git push origin master
